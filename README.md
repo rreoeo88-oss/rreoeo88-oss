@@ -6,12 +6,14 @@
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <br />
 <br />
 <br />
+
 ## i likes
 아직 무엇을 해야할지 제가 어떤 걸 좋아하는지 알아가고 있습니다. 모험도 해보고싶고 여행도 다니면 세상을 알아가고 싶습니다. 살면서 여러 사람을 만나고 사람들과 교류하는 걸 좋아합니다.
 활동적인 것도 좋아하고 알지 못하는 지식을 배우는 것 어떤 주제에 대해 토론하는 것을 좋아합니다.
